@@ -115,7 +115,8 @@ Um departamento pode ter **vários professores** (*1:N*).
 ---
 
 ## Autores
-**Thiago Estevão**  
+**Thiago Estevão** 
+**Nicolas Soares**
 
 
 ---
